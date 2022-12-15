@@ -1,0 +1,9 @@
+Category C3 keywords: 
+bank, rate, mortgage, cent, 5_percent, mr, loan, takenaka, percent, mr_takenaka, 
+
+Category C1 keywords: 
+airline, police_force, civil_aeronautics, pilot, ground, civil, air_china, police, safety, pacific, 
+
+Category C2 keywords: 
+disease, mouth, graefe_zu_baringdorf, hoof, hoof_mouth, mouth_disease, veterinary, drug, agriculture, vaccine, 
+
